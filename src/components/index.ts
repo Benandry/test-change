@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar";
+export { default as Homepage } from "./home/Homepage";
+export { default as Contact } from "./contact/Contact";
+export { default as Graduate } from "./graduate/Graduate";
+export { default as Project } from "./project/Project";
+export { default as Skills } from "./skills/Skills";
+export { default as Tech } from "./tech/Tech";
+export { default as ContentTechno } from "./ContentTechno";
+export { default as ContentProject } from "./ContentProject";
+export { default as StackTechno } from "./StackTechno";
+export { default as Who } from "./Who";
